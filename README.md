@@ -1,9 +1,15 @@
-# bike-share data analysis
-This repository contains end to end data analysis project from the Google Data Analytics Capstone and independent work. Focused on large dataset handling, memory efficient processing, SQL integration, and extracting actionable business insights using Python, Pandas, SQLite, and Excel.
+# Bike Share Data Analysis
 
- Project Overview
+This project analyzes operational data from a bike sharing company to identify usage patterns and generate insights that can support data driven business decisions.
 
-This end-to-end data analysis project from the Google Data Analytics Capstone: Case Study 1 – How does a bike-share navigate speedy success?. The project focuses on memory-efficient processing of large datasets, SQL integration, and extracting actionable business insights.
+The analysis focuses on handling large datasets efficiently, integrating SQL queries, and performing exploratory data analysis using Python, Pandas, SQLite, and Excel.
+
+## Project Overview
+
+This end to end data analysis project is based on the Google Data Analytics Capstone case study: *How does a bike share company achieve faster business growth?*
+
+The objective is to explore user behavior, analyze trip patterns, and extract actionable insights that could help improve customer retention, operational efficiency, and strategic decision making.
+
 
 
 ## Dataset
