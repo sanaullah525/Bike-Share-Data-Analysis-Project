@@ -1,9 +1,9 @@
-# data-projects
-This repository contains end to end data analysis projects from the Google Data Analytics Capstone and independent work. Focused on large dataset handling, memory efficient processing, SQL integration, and extracting actionable business insights using Python, Pandas, SQLite, and Excel.
+# bike-share data analysis
+This repository contains end to end data analysis project from the Google Data Analytics Capstone and independent work. Focused on large dataset handling, memory efficient processing, SQL integration, and extracting actionable business insights using Python, Pandas, SQLite, and Excel.
 
- Projects Overview
+ Project Overview
 
-My first end-to-end data analysis project from the Google Data Analytics Capstone: Case Study 1 – How does a bike-share navigate speedy success?. The project focuses on memory-efficient processing of large datasets, SQL integration, and extracting actionable business insights.
+This end-to-end data analysis project from the Google Data Analytics Capstone: Case Study 1 – How does a bike-share navigate speedy success?. The project focuses on memory-efficient processing of large datasets, SQL integration, and extracting actionable business insights.
 
 
 ## Dataset
